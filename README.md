@@ -19,8 +19,6 @@ Here is the screenshot of the Knowledge Base used in this bot.
 
 
 <h2>Working:</h2>
-home page 
-![a1](https://user-images.githubusercontent.com/115469282/197379776-4a031a8e-7cd2-4d9a-8ca1-7bc4574d30e4.png)
 
 
 bot on microsoft teams
