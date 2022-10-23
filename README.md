@@ -20,10 +20,14 @@ Here is the screenshot of the Knowledge Base used in this bot.
 
 <h2>Working:</h2>
 home page 
-![a1](https://user-images.githubusercontent.com/115469282/197379544-7eb36f22-40fa-49d1-ac41-dba339025548.png)
+![a1](https://user-images.githubusercontent.com/115469282/197379776-4a031a8e-7cd2-4d9a-8ca1-7bc4574d30e4.png)
+
 
 bot on microsoft teams
 ![a2](https://user-images.githubusercontent.com/115469282/197379570-bf250aa5-6f4f-4012-a218-70e306951128.png)
+
+![a3](https://user-images.githubusercontent.com/115469282/197379806-d1678f8e-988d-4573-b9bf-fb5c2e4e1f8c.png)
+
 
 azure portal 
 ![a4](https://user-images.githubusercontent.com/115469282/197379591-84574418-cce5-42b0-82a4-b1f8059358da.png)
